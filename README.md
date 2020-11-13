@@ -27,6 +27,7 @@ This project is built explicitly for the Heltec CubeCell HTCC-AB02S
 - [ ] on/off using user button
 - [ ] set interval using user button
 - [ ] show frame count up/down
+- [ ] detect when charging
 
 # License, Recognitions
 This project was developed with inspiration from XX and XX.
