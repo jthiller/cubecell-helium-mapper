@@ -6,12 +6,20 @@ Contribute to the [Helium coverage map](http://mappers.helium.com) using the Hel
 # Setup
 This project is built explicitly for the Heltec CubeCell HTCC-AB02S
 
-## PlatformIO
+## Flash Board
+### PlatformIO
  -- Install Platformio (guide)
  -- build/upload
+ -- OTAA keys
 
-## Arduino
+### Arduino
  -- ???
+ -- build/upload
+ -- OTAA keys
+ 
+## Configure in Helium Console
+### Add relevant decoder function
+### Add Mappers integration
 
 # Contribute
 ## TODO
